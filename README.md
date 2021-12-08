@@ -1,2 +1,2 @@
 <!-- ### Hi there 👋 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sndshun)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
